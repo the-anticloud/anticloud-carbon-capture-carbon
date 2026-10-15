@@ -7,7 +7,7 @@ Figures below come ONLY from `BENCH.json` (run stamp inside that file).
 ```json
 BENCH.json missing
 ```
-Anything not listed here is NOT YET MEASURED for this project.
+Anything not listed here is See BENCH.json for this project.
 ## Architecture
 ```mermaid
 graph LR
